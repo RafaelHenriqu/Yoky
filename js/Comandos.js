@@ -90,6 +90,9 @@ const Comandos_Privados = {
                 Connection.subscribe(Player)
                 var Random = Music[Math.floor(Math.random() * Music.length)]
                 console.log(`${Path}${Random}`)
+                if (Random == undefined){
+                    return
+                }
                 const Resource = await createAudioResource(`${Path}${Random}`) // Adicionar Compatibilidade com outros Formatos Futuramente
                 Player.play(Resource)
                 

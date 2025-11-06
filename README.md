@@ -26,8 +26,6 @@ Embora a versão pública do Yoky não receba mais atualizações regulares, o p
 
 A versão privada do Yoky é mantida como **privada** no GitHub. Esta decisão visa assegurar a integridade do bot e possibilitar atualizações e melhorias conforme necessário. 
 
-Para mais informações sobre o bot oficial (versão não de demonstração), você pode visitar nosso [grupo no GitHub](https://github.com/Noah-Code-Studio). Atualmente, o bot está privado, mas há possibilidade de que a versão definitiva se torne pública no futuro.
-
 ## Como Contribuir
 
 A versão pública do Yoky é uma demonstração e possivelmente não será atualizada futuramente. No entanto, você é totalmente livre para utilizar o código como desejar para qualquer finalidade. 
